@@ -37,9 +37,12 @@ print(t.count(2)) # 3
 
 t1 = (10, 20, 30, 20)
 print(t1.index(20))
+<<<<<<< HEAD
 
 
 tea = ("Herbal", "Earl Grey", "Green", "Oolong")
 
 if "Green" in tea:
     print("I have a green tea")
+=======
+>>>>>>> f41b6f3928e7e1fc01114e2bc8f1a0d103299566
